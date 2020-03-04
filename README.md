@@ -3,6 +3,6 @@
 
 Resources | Practice Test Links
 --- | --- 
-**foo** | :mortar_board:
+**Concepts** | :mortar_board:
 foo | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-pods-new
 bar | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-replicasets-new
