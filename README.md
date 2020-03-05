@@ -8,6 +8,6 @@ foo | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-pods-new
 bar | https://katacoda.com/embed/mmumshad2/kubernetes-for-beginners-replicasets-new
 
 
-This repo has been linted with Ansible Lint. 
+This repo has been linted with Ansible Lint
 
 ![Ansible Lint](https://github.com/colin-mccarthy/badges/workflows/Ansible%20Lint/badge.svg)
